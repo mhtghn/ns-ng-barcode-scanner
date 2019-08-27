@@ -1,0 +1,1 @@
+# ns-ng-barcode-scanner
